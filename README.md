@@ -16,7 +16,7 @@ An Arduino-based calendar alarm clock
 
 ### Schematic
 
-![](schematic
+![](schematic.PNG)
 
 ### Usage
 

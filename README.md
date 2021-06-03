@@ -4,7 +4,7 @@
 
 An Arduino-based calendar alarm clock
 
-![](photo.jpg)
+![](video.mp4)
 
 ### Components
 
